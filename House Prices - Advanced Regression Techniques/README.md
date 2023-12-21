@@ -31,6 +31,6 @@ Reflecting on the project, I encountered challenges during data preprocessing an
 
 In the pursuit of improvement, I plan to experiment with diverse imputation strategies and preprocessing techniques to enhance the robustness of the model. Exploring alternative regression algorithms and comparing their performance could offer insights into potential improvements. Moreover, seeking feedback from the competition community will be instrumental in identifying specific areas for refinement and elevating the overall effectiveness of the predictive model. This reflective and improvement-oriented approach aims to iteratively enhance the model's capabilities and problem-solving strategies.
 
-Link:
+# Link:
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
