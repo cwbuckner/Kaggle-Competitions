@@ -28,3 +28,6 @@ Missing Value Imputation:
 Model Tuning and Kaggle Submission:
    - Various trials with different feature combinations are documented, along with their corresponding accuracy scores on the test set.
    - The final logistic regression model is used to predict the transportation status for the test set, and the results are saved in the Kaggle submission format.
+
+# Link:
+https://www.kaggle.com/c/spaceship-titanic/data
