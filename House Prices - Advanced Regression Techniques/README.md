@@ -30,3 +30,7 @@ The evaluation involves metrics such as the root mean squared error (RMSE) on a 
 Reflecting on the project, I encountered challenges during data preprocessing and model training that provided valuable learning opportunities. The nuances of handling missing data and selecting appropriate hyperparameters for the Random Forest model became focal points. Additionally, analyzing feature importance proved insightful for understanding the model's decision-making process.
 
 In the pursuit of improvement, I plan to experiment with diverse imputation strategies and preprocessing techniques to enhance the robustness of the model. Exploring alternative regression algorithms and comparing their performance could offer insights into potential improvements. Moreover, seeking feedback from the competition community will be instrumental in identifying specific areas for refinement and elevating the overall effectiveness of the predictive model. This reflective and improvement-oriented approach aims to iteratively enhance the model's capabilities and problem-solving strategies.
+
+Link:
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
