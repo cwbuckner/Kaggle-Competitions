@@ -1,2 +1,2 @@
 # Kaggle-Competitions
-All the Kaggle competitions I have competed in
+All the Kaggle competitions I have competed in.
