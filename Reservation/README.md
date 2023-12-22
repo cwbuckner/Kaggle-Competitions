@@ -16,3 +16,7 @@ The analysis begins by loading and exploring the dataset, identifying key featur
 Kaggle submission reflects the culmination of the project, with predictions generated and submitted for evaluation. The final Kaggle accuracy score serves as a quantitative measure of the model's success. The exploration of different scenarios with varying feature sets adds depth to the analysis, offering a comprehensive understanding of feature importance.
 
 The project serves as a practical application of machine learning techniques, showcasing the process of model development, evaluation, and submission in a competition setting. It provides a valuable learning experience for participants seeking to enhance their skills in predictive modeling.
+
+# Link:
+
+https://www.kaggle.com/competitions/playground-series-s3e7
