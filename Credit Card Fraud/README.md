@@ -28,3 +28,6 @@ The primary objective is to build predictive models for credit card fraud detect
 
 # Reflection:
 The analysis begins with loading the datasets, exploring their shapes, and checking for missing values. Features such as 'Time,' 'Amount,' and various 'V' features are utilized for training the models. Two models, logistic regression and random forest, are trained and evaluated. Special attention is given to handling imbalanced classes, crucial in fraud detection scenarios. The results are then submitted in the required format for the competition.
+
+# Link:
+https://www.kaggle.com/competitions/playground-series-s3e4/data
