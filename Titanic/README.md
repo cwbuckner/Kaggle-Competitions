@@ -11,3 +11,6 @@ The Titanic Survival Prediction project commenced with a comprehensive **data ex
 The project demonstrates the essential steps of a typical machine learning classification task, from data exploration to model training and prediction. Further improvements can be made by exploring additional features, trying different models, and fine-tuning parameters. The gender_submission.csv file serves as an example of a submission file format.
 
 This analysis provides a foundation for more sophisticated models and a deeper understanding of the factors influencing survival on the Titanic. Continuous refinement and exploration of data science techniques will contribute to enhanced predictive accuracy.
+
+# Link:
+https://www.kaggle.com/competitions/titanic/data
