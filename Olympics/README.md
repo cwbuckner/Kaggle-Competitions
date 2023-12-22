@@ -15,3 +15,6 @@ The primary objectives of the analysis are as follows:
 
 # Reflection:
 The analysis begins by loading the dataset and performing basic data exploration. It includes handling missing values and exploring key features like athlete demographics. The focus then shifts to understanding participation trends, sports distribution, and achievements. Gender analysis is incorporated to understand the evolving role of male and female athletes in the Olympics.
+
+# Link:
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
